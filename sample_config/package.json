@@ -1,0 +1,11 @@
+{
+  "name": "sample_config",
+  "version": "1.1.1",
+  "description": "db_config",
+  "main": "sample_config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
